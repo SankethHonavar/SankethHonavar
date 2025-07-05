@@ -47,13 +47,6 @@ A PDF Question Answering chatbot using vector search and generative AI.
 
 ---
 
-## 📌 Portfolio & Resume
-
-- 🌐 [Portfolio Website](https://sanketh-portfolio.streamlit.app/)  
-- 📄 [Resume (PDF)](https://drive.google.com/your-resume-link) *(Replace with actual)*
-
----
-
 ## 📫 Let’s Connect
 
 - 📧 Email: sankethhonavar25@gmail.com  
