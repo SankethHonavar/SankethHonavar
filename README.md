@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sanketh Honavar
+# Hi there 👋 I'm Sanketh Honavar
 
 🎓 B.E. in Artificial Intelligence & Machine Learning  
 🤖 Passionate about AI, Machine Learning, and Generative AI  
