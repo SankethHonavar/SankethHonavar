@@ -49,8 +49,8 @@ A PDF Question Answering chatbot using vector search and generative AI.
 
 ## 📫 Let’s Connect
 
-- 📧 Email: sankethhonavar25@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/sankethhonavar)
+- **Email**: [sankethhonavar25@gmail.com](mailto:sankethhonavar25@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/sankethhonavar](https://linkedin.com/in/sankethhonavar)
 
 ---
 
