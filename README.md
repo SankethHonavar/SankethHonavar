@@ -52,7 +52,7 @@ A PDF Question Answering chatbot using vector search and generative AI.
 A medical chatbot that answers questions based only on the MedMCQA dataset. Built using LangGraph to control conversational flow and powered by an LLM.
 
 <!-- - 🔗 [Live Demo](https://medmcqa-chatbot.streamlit.app/)-->
-- 📂 [GitHub Repo](https://github.com/SankethHonavar/MedMCQA_LangGraph_Chatbot)
+📂 [GitHub Repo](https://github.com/SankethHonavar/MedMCQA_LangGraph_Chatbot)
 ---
 
 ## 📚 Academic Projects
