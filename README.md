@@ -42,7 +42,7 @@
 
 ## 🌟 Featured Project:
 
-### 🤖 Chat with PDF using Gemini + LangChain**  
+### 🤖 Chat with PDF using Gemini + LangChain
 A PDF Question Answering chatbot using vector search and generative AI.  
 
 🔗 [Live Demo](https://pdfchatbot-mgpvgpmx6ilcgdsxqerfrw.streamlit.app/)  
