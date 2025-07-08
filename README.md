@@ -40,14 +40,19 @@
 
 ---
 
-## 🌟 Featured Project: PDF Chatbot
+## 🌟 Featured Project:
 
-**Chat with PDF using Gemini + LangChain**  
+### 🤖 Chat with PDF using Gemini + LangChain**  
 A PDF Question Answering chatbot using vector search and generative AI.  
 
 🔗 [Live Demo](https://pdfchatbot-mgpvgpmx6ilcgdsxqerfrw.streamlit.app/)  
 📂 [GitHub Repo](https://github.com/SankethHonavar/PDF_ChatBot)
 
+### 🧠 MedMCQA LangGraph Chatbot  
+A medical chatbot that answers questions based only on the MedMCQA dataset. Built using LangGraph to control conversational flow and powered by an LLM.
+
+<!-- - 🔗 [Live Demo](https://medmcqa-chatbot.streamlit.app/)-->
+- 📂 [GitHub Repo](https://github.com/SankethHonavar/MedMCQA_LangGraph_Chatbot)
 ---
 
 ## 📚 Academic Projects
